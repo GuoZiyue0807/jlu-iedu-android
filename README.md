@@ -35,6 +35,8 @@ gradle assembleDebug
 
 仓库包含一个 Android 构建工作流。推送到 `main` 后会自动构建 debug APK，并上传为 Actions artifact。
 
+最近一次手动触发构建：2026-06-12。
+
 ## 说明
 
 该项目不是吉林大学官方应用，仅为指定网站的移动端封装示例。
